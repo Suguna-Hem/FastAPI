@@ -1,0 +1,26 @@
+[
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2018,
+        "id": 2
+    },
+    {
+        "make": "Ford",
+        "model": "Fusion",
+        "year": 2017,
+        "id": 3
+    },
+    {
+        "make": "Honda",
+        "model": "RAV4",
+        "year": 2020,
+        "id": 4
+    },
+    {
+        "make": "Toyota",
+        "model": "RAV5",
+        "year": 2020,
+        "id": 5
+    }
+]
